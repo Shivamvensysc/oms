@@ -1,4 +1,3 @@
-// pages/Login.tsx
 import React, { useState, FormEvent, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import OMSVersionFooter from '../components/OMSVersionFooter';
